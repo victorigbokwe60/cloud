@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to set the global font */
+:root {
+  font-family: 'Poppins', sans-serif;
+  color-scheme: dark;
+}
+
+/* App.css */
+html {
+  scroll-behavior: smooth;
+}
+
